@@ -14,6 +14,7 @@ This repo lists all the awesome non-code contributions that are done by the Hier
 
 **2025**
 - "Hiero: Advancing Decentralized Trust Through Open Source Innovation", Feb 12 2025, by [Hendrik Ebbers](https://github.com/hendrikebbers) and [Sophie Bulloch]((https://github.com/exploreriii)) ([Blog Post](https://www.lfdecentralizedtrust.org/blog/hiero-advancing-decentralized-trust-through-open-source-innovation))
+- "Hiero: Unleash the Power of Hiero: A Developer's Guide to our SDKs", Feb 13 2025, by [Hendrik Ebbers](https://github.com/hendrikebbers) ([YouTube](https://www.youtube.com/watch?v=eNDNY3hLksg)). 
 - "Hiero: Vendor Neutral Home for the Tech of Hedera & Future DLT Standards | HederaCon | Tech Stage", Mar 12 2025, with [Hendrik Ebbers](https://github.com/hendrikebbers) and Hart Montgomery, CTO Linux Foundation Decentralized Trust.([Youtube](https://www.youtube.com/watch?v=9bRTnNIwHiA))
 - "Fireside With Linux Foundation's Daniela Barbosa", General Manager of Decentralized Technologies at the Linux Foundation and Executive Director of LF Decentralized Trust | HederaCon | Main Stage | Mar 12 2025.([Youtube](https://www.youtube.com/watch?v=csM2GBGeHK8))
 - "Keynote: Hedera 2025 - What's Next | HederaCon | Tech Stage", Mar 12 2025, with [Ed Marquez](https://github.com/ed-marquez), Head of Dev Rel Hashgraph, and [Richard Bair](https://github.com/rbair23), VP Engineering Hashgraph.([Youtube](https://www.youtube.com/watch?v=6xdJ_CLf0d0))
