@@ -19,6 +19,17 @@ This repo lists all the awesome non-code contributions that are done by the Hier
 - "Fireside With Linux Foundation's Daniela Barbosa", General Manager of Decentralized Technologies at the Linux Foundation and Executive Director of LF Decentralized Trust | HederaCon | Main Stage | Mar 12 2025.([Youtube](https://www.youtube.com/watch?v=csM2GBGeHK8))
 - "Keynote: Hedera 2025 - What's Next | HederaCon | Tech Stage", Mar 12 2025, with [Ed Marquez](https://github.com/ed-marquez), Head of Dev Rel Hashgraph, and [Richard Bair](https://github.com/rbair23), VP Engineering Hashgraph.([Youtube](https://www.youtube.com/watch?v=6xdJ_CLf0d0))
 
-## **Training**
+## **Elections**
+- "How to Nominate a Candidate", Mar 2025, by Hiero Community ([Guide](https://github.com/hiero-ledger/governance/tree/main/elections/nominees/mar-2025-election))
+- "Upcoming Elections for End User and Community Seats on the Hiero Technical Steering Committee (TSC)", Mar 18 2025, by Hiero Community ([Blog Post](https://www.lfdecentralizedtrust.org/blog/announcing-the-upcoming-elections-for-end-user-and-community-seats-on-the-hiero-technical-steering-committee-tsc))
+
+## **General Training**
 - A 9 lesson long tutorial on cotributing to the Hiero Python SDK, last updated Jan 28 2025, by [exploreriii](https://github.com/exploreriii) ([YouTube](https://www.youtube.com/playlist?list=PL6uVtTx-oqY8V-HBfenONJrsA0Z8xJymX))
 - A 3h 20 min lesson "Unleash the Power of Hiero: A Developer’s Guide to Our SDKs", Feb 13 2025, with  [Hendrik Ebbers](https://github.com/hendrikebbers) ([YouTube](https://www.youtube.com/watch?v=eNDNY3hLksg))
+
+## **Technical Guidance**
+- "Hedera Smart Contracts", by Hashgraph ([Guide](https://github.com/hashgraph/hedera-smart-contracts))
+- "Hedera The Graph", by Hashgraph ([Guide](https://github.com/hashgraph/hedera-the-graph))
+- "Hedera Forking for System Contracts", by Hashgraph ([Guide](https://github.com/hashgraph/hedera-forking))
+- "Hedera Metamask Snaps", by Hashgraph ([Guide](https://github.com/hashgraph/hedera-metamask-snaps))
+- "Main Branch Protection Rules in hiero-ledger Repos", Mar 2025, by Hiero Community and Jessica Gonzalez [jwagantall]([https://github.com/jwagantall])), ([Guide](https://github.com/orgs/hiero-ledger/discussions/65))
