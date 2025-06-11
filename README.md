@@ -42,7 +42,7 @@ This repo lists all the awesome non-code contributions that are done by the Hier
 
 ## About Users and Maintainers
 
-- Users and Maintainers guidelies are located in **[Hiero-Ledger's roles and groups guidelines](https://github.com/hiero-ledger/governance/blob/main/roles-and-groups.md#maintainers).**
+- Users and Maintainers guidelines are located in **[Hiero-Ledger's roles and groups guidelines](https://github.com/hiero-ledger/governance/blob/main/roles-and-groups.md#maintainers).**
 
 ## License
 
