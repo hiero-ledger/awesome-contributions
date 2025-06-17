@@ -1,5 +1,7 @@
 # Hiero Awesome Contributions
 
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/10697/badge)](https://bestpractices.coreinfrastructure.org/projects/10697)
+
 This repo lists all the awesome non-code contributions that are done by the Hiero community.
 
 ## **Introductions**
@@ -33,3 +35,15 @@ This repo lists all the awesome non-code contributions that are done by the Hier
 - "Hedera Forking for System Contracts", by Hashgraph ([Guide](https://github.com/hashgraph/hedera-forking))
 - "Hedera Metamask Snaps", by Hashgraph ([Guide](https://github.com/hashgraph/hedera-metamask-snaps))
 - "Main Branch Protection Rules in hiero-ledger Repos", Mar 2025, by Hiero Community and Jessica Gonzalez [jwagantall]([https://github.com/jwagantall])), ([Guide](https://github.com/orgs/hiero-ledger/discussions/65))
+
+## Contribute
+
+- To contribute, please refer to the **[Hiero-Ledger's contribution guidelines](https://github.com/hiero-ledger/.github/blob/main/CONTRIBUTING.md)**
+
+## About Users and Maintainers
+
+- Users and Maintainers guidelines are located in **[Hiero-Ledger's roles and groups guidelines](https://github.com/hiero-ledger/governance/blob/main/roles-and-groups.md#maintainers).**
+
+## License
+
+- Hiero's source code is available under the **Apache License, Version 2.0 (Apache-2.0)**
