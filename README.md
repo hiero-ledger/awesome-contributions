@@ -22,6 +22,7 @@ This repo lists all the awesome non-code contributions that are done by the Hier
 - "Fireside With Linux Foundation's Daniela Barbosa", General Manager of Decentralized Technologies at the Linux Foundation and Executive Director of LF Decentralized Trust | HederaCon | Main Stage | Mar 12 2025.([Youtube](https://www.youtube.com/watch?v=csM2GBGeHK8))
 - "Keynote: Hedera 2025 - What's Next | HederaCon | Tech Stage", Mar 12 2025, with [Ed Marquez](https://github.com/ed-marquez), Head of Dev Rel Hashgraph, and [Richard Bair](https://github.com/rbair23), VP Engineering Hashgraph.([Youtube](https://www.youtube.com/watch?v=6xdJ_CLf0d0))
 - Rare Evo Hiero Workshop - Las Vegas Aug 09 2025, by [Hendrik Ebbers](https://github.com/hendrikebbers) ([YouTube](https://www.youtube.com/watch?v=4saglmQVxU0)).
+- Post Hacktoberfest Growth Challenges - TAC presentation Dec 11 by [Sophie Bulloch](https://github.com/exploreriii) ([Recording](https://zoom.us/rec/share/b7JSW7ODF8Ag15amkbuWmtAYyMvePjJHgPUOGMkBVrWpl_ToZnXtkFd7ep2S6yuy.SogWJObGWD9dp7so)).
 
 ## **Elections**
 - "How to Nominate a Candidate", Mar 2025, by Hiero Community ([Guide](https://github.com/hiero-ledger/governance/tree/main/elections/nominees/mar-2025-election))
