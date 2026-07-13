@@ -27,6 +27,12 @@ This repo lists all the awesome non-code contributions that are done by the Hier
 **2026**
 Hiero Community Day
 
+- [Keynote](hiero-community-day-2026/HieroCommunityDayKeynote.pdf) - by Hendrik Ebbers (Open Elements/Hashgraph) and Jessica Gonzalez (LF Decentralized Trust)
+- [Agentic Commerce](hiero-community-day-2026/AgenticCommerce-WAD2026.pdf) - by Piotr Swierzy (Blocky Devs)
+- [Solo](hiero-community-day-2026/Solo-presentation.pdf) - by Noah Tayebwa (Open Elements)
+- [Proof of Personhood](hiero-community-day-2026/ProofofPersonhood.pdf) - by Jessica Gonzalez (LF Decentralized Trust)
+- [Hiero Heka](hiero-community-day-2026/Hiero-Heka-LFDT-052126.pdf) by Alexander Shenshin (DSR)
+
 ## **Elections**
 - "How to Nominate a Candidate", Mar 2025, by Hiero Community ([Guide](https://github.com/hiero-ledger/governance/tree/main/elections/nominees/mar-2025-election))
 - "Upcoming Elections for End User and Community Seats on the Hiero Technical Steering Committee (TSC)", Mar 18 2025, by Hiero Community ([Blog Post](https://www.lfdecentralizedtrust.org/blog/announcing-the-upcoming-elections-for-end-user-and-community-seats-on-the-hiero-technical-steering-committee-tsc))
