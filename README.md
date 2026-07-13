@@ -28,6 +28,7 @@ This repo lists all the awesome non-code contributions that are done by the Hier
 Hiero Community Day
 
 - [Keynote](hiero-community-day-2026/HieroCommunityDayKeynote.pdf) - by Hendrik Ebbers (Open Elements/Hashgraph) and Jessica Gonzalez (LF Decentralized Trust)
+- [Why Community Matters](hiero-community-day-2026/Why-community-matters-v2-3.pdf) - by Sophie Bulloch (Python SDK Maintainer)
 - [Agentic Commerce](hiero-community-day-2026/AgenticCommerce-WAD2026.pdf) - by Piotr Swierzy (Blocky Devs)
 - [Solo](hiero-community-day-2026/Solo-presentation.pdf) - by Noah Tayebwa (Open Elements)
 - [Proof of Personhood](hiero-community-day-2026/ProofofPersonhood.pdf) - by Jessica Gonzalez (LF Decentralized Trust)
