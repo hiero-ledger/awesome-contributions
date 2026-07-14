@@ -24,6 +24,17 @@ This repo lists all the awesome non-code contributions that are done by the Hier
 - Rare Evo Hiero Workshop - Las Vegas Aug 09 2025, by [Hendrik Ebbers](https://github.com/hendrikebbers) ([YouTube](https://www.youtube.com/watch?v=4saglmQVxU0)).
 - Post Hacktoberfest Growth Challenges - TAC presentation Dec 11 by [Sophie Bulloch](https://github.com/exploreriii) ([Recording](https://zoom.us/rec/share/b7JSW7ODF8Ag15amkbuWmtAYyMvePjJHgPUOGMkBVrWpl_ToZnXtkFd7ep2S6yuy.SogWJObGWD9dp7so)).
 
+**2026**
+Hiero Community Day
+
+- [Keynote](hiero-community-day-2026/HieroCommunityDayKeynote.pdf) - by Hendrik Ebbers (Open Elements/Hashgraph) and Jessica Gonzalez (LF Decentralized Trust)
+- [Why Community Matters](hiero-community-day-2026/Why-community-matters-v2-3.pdf) - by Sophie Bulloch (Python SDK Maintainer)
+- [Updates on SDKs](hiero-community-day-2026/HieroSDKsEvolveintoCommunityProjects.pdf) -by Rob Walworth (Hashgraph)
+- [Agentic Commerce](hiero-community-day-2026/AgenticCommerce-WAD2026.pdf) - by Piotr Swierzy (Blocky Devs)
+- [Solo](hiero-community-day-2026/Solo-presentation.pdf) - by Noah Tayebwa (Open Elements)
+- [Proof of Personhood](hiero-community-day-2026/ProofofPersonhood.pdf) - by Jessica Gonzalez (LF Decentralized Trust)
+- [Hiero Heka](hiero-community-day-2026/Hiero-Heka-LFDT-052126.pdf) by Alexander Shenshin (DSR)
+
 ## **Elections**
 - "How to Nominate a Candidate", Mar 2025, by Hiero Community ([Guide](https://github.com/hiero-ledger/governance/tree/main/elections/nominees/mar-2025-election))
 - "Upcoming Elections for End User and Community Seats on the Hiero Technical Steering Committee (TSC)", Mar 18 2025, by Hiero Community ([Blog Post](https://www.lfdecentralizedtrust.org/blog/announcing-the-upcoming-elections-for-end-user-and-community-seats-on-the-hiero-technical-steering-committee-tsc))
