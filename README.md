@@ -49,6 +49,7 @@ Hiero Community Day
 - "Hedera Forking for System Contracts", by Hashgraph ([Guide](https://github.com/hashgraph/hedera-forking))
 - "Hedera Metamask Snaps", by Hashgraph ([Guide](https://github.com/hashgraph/hedera-metamask-snaps))
 - "Main Branch Protection Rules in hiero-ledger Repos", Mar 2025, by Hiero Community and Jessica Gonzalez [jwagantall]([https://github.com/jwagantall])), ([Guide](https://github.com/orgs/hiero-ledger/discussions/65))
+- "CI for Hedera Projects using Hiero Solo GitHub Action", 2025, by [Samrajni01](https://github.com/Samrajni01) ([YouTube](https://youtu.be/F5DYcetySgA?si=fknKJZRmKhXVhyvr))
 
 ## Contribute
 
