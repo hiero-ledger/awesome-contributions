@@ -25,6 +25,13 @@ This repo lists all the awesome non-code contributions that are done by the Hier
 - Post Hacktoberfest Growth Challenges - TAC presentation Dec 11 by [Sophie Bulloch](https://github.com/exploreriii) ([Recording](https://zoom.us/rec/share/b7JSW7ODF8Ag15amkbuWmtAYyMvePjJHgPUOGMkBVrWpl_ToZnXtkFd7ep2S6yuy.SogWJObGWD9dp7so)).
 
 **2026**
+
+RareEvo 2026
+- [How to Build and Manage an Open Source Project with Open Governance](https://github.com/user-attachments/files/30715372/How.to.Build.and.Manage.an.Open.Source.Project.with.Open.Governance.pdf)
+) - by Jessica Gonzalez (LF Decentralized Trust) and Ry Jones (LF Decentralized Trust)
+- [Building the Open Standards Layer for the Agentic Internet with Hiero Consensus Specifications]() - by Michael Kantor (Hashgraph Online)
+- Featured panel "What does ANS and Consensus have to do with the Internet of Agents?" by Michael Kantor (Hashgraph Online) with Keith Perry (GoDaddy) and Connor Snitker (GoDaddy)
+
 Hiero Community Day
 
 - [Keynote](hiero-community-day-2026/HieroCommunityDayKeynote.pdf) - by Hendrik Ebbers (Open Elements/Hashgraph) and Jessica Gonzalez (LF Decentralized Trust)
