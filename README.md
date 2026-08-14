@@ -27,8 +27,7 @@ This repo lists all the awesome non-code contributions that are done by the Hier
 **2026**
 
 RareEvo 2026
-- [How to Build and Manage an Open Source Project with Open Governance](https://github.com/user-attachments/files/30715372/How.to.Build.and.Manage.an.Open.Source.Project.with.Open.Governance.pdf)
-) - by Jessica Gonzalez (LF Decentralized Trust) and Ry Jones (LF Decentralized Trust)
+- [How to Build and Manage an Open Source Project with Open Governance](https://github.com/user-attachments/files/30715372/How.to.Build.and.Manage.an.Open.Source.Project.with.Open.Governance.pdf) - by Jessica Gonzalez (LF Decentralized Trust) and Ry Jones (LF Decentralized Trust)
 - [Building the Open Standards Layer for the Agentic Internet with Hiero Consensus Specifications]() - by Michael Kantor (Hashgraph Online)
 - Featured panel "What does ANS and Consensus have to do with the Internet of Agents?" by Michael Kantor (Hashgraph Online) with Keith Perry (GoDaddy) and Connor Snitker (GoDaddy)
 
